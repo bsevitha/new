@@ -59,26 +59,22 @@ th{
 }
 .cars{
 font-size:35px;
-margin-left: 150px;
-	margin-top:200px;
+padding-left: 200px;
+	padding-top:200px;
 
 
 }
 #ok,#oo{
 	font-size: 25px;
 }
-.car{
-font-size:50px;
-margin-left: 30px;
 
 
-}
 .show{
 	margin-top: 200px;
 }
 .btn{
 	margin-top: 20px;
-	margin-left: 150px;
+	padding-left: 200px;
 	font-size:30px;
 }
 .logout{
