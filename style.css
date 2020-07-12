@@ -59,7 +59,7 @@ th{
 }
 .cars{
 font-size:35px;
-padding-left: 200px;
+padding-left: 50%;
 	padding-top:200px;
 
 
@@ -74,7 +74,7 @@ padding-left: 200px;
 }
 .btn{
 	margin-top: 20px;
-	margin-left: 200px;
+	margin-left: 50%;
 	font-size:30px;
 }
 .logout{
